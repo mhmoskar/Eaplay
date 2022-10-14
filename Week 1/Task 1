@@ -1,0 +1,10 @@
+#my first program
+
+#subrountine to output text 
+
+def OutputText():
+  print("hello world")
+
+#main program
+
+OutputText()
